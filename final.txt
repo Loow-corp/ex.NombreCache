@@ -1,0 +1,4 @@
+﻿'NombreCache.exe' (CLR v4.0.30319: DefaultDomain) : Chargé 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Chargement des symboles ignoré. Le module est optimisé et l'option du débogueur 'Uniquement mon code' est activée.
+'NombreCache.exe' (CLR v4.0.30319: DefaultDomain) : Chargé 'D:\Projet visual studio\nombre caché\NombreCache\NombreCache\bin\Debug\NombreCache.exe'. Les symboles ont été chargés.
+Le programme '[27160] NombreCache.exe: Trace du programme' s'est arrêté avec le code 0 (0x0).
+Le programme '[27160] NombreCache.exe' s'est arrêté avec le code -1073741510 (0xc000013a).

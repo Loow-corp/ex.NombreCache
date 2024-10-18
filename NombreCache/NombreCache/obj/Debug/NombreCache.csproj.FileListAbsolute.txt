@@ -1,0 +1,7 @@
+D:\Projet visual studio\nombre caché\NombreCache\NombreCache\bin\Debug\NombreCache.exe.config
+D:\Projet visual studio\nombre caché\NombreCache\NombreCache\bin\Debug\NombreCache.exe
+D:\Projet visual studio\nombre caché\NombreCache\NombreCache\bin\Debug\NombreCache.pdb
+D:\Projet visual studio\nombre caché\NombreCache\NombreCache\obj\Debug\NombreCache.csproj.AssemblyReference.cache
+D:\Projet visual studio\nombre caché\NombreCache\NombreCache\obj\Debug\NombreCache.csproj.CoreCompileInputs.cache
+D:\Projet visual studio\nombre caché\NombreCache\NombreCache\obj\Debug\NombreCache.exe
+D:\Projet visual studio\nombre caché\NombreCache\NombreCache\obj\Debug\NombreCache.pdb
